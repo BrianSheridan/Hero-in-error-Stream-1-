@@ -1,0 +1,108 @@
+body{
+	background-color: black;
+	background-size: cover;
+}
+
+.page-header{
+	text-align: center;
+	font-family: 'Ravi Prakash', cursive;
+    font-family: 'Metal Mania', cursive;
+}
+
+h1{
+       font-family: 'Metal Mania', cursive;
+       color: white; 
+}
+
+.page-header2{
+    text-align: left;
+    font-family: 'Ravi Prakash', cursive;
+    font-family: 'Metal Mania', cursive;
+}
+
+.navbar-brand{
+	font-family: 'Ravi Prakash', cursive;
+    font-family: 'Metal Mania', cursive;
+    font-size: 50px;
+    margin-right: 20%;
+}
+
+.carousel-caption{
+    font-family: 'Metal Mania', cursive;
+}
+
+.navbar-components{
+   font-family: 'Metal Mania', cursive; 
+}
+
+.img-responsive{
+    }
+
+
+
+.item{
+	font-family: font-family: 'Comfortaa', cursive;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 70px;
+    width: 30px;
+    text-align: right;
+    text-decoration: none;
+    
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+    opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+    
+    color: white;
+    font-size: 50px;
+    align-content: right;
+    
+}
+
+/* Twitter */
+.fa-twitter {
+    
+    color: white;
+    font-size: 50px;
+    align-content: right;
+}
+
+.fa-spotify{
+	
+	color: white;
+    align-content: right;
+}
+
+.fa-instagram{
+	
+	color: white;
+    align-content: right;
+}
+
+.middle-header{
+    color: white;
+    font-size: 20px;
+    font-family: Impact, Charcoal, sans-serif
+}
+
+.list-bands{
+    font-size: 25px;
+    font-family: 'Metal Mania', cursive;
+}
+
+p{
+     font-family: Impact, Charcoal, sans-serif;
+     color: white;
+     font-size: 20px;
+     
+ }
