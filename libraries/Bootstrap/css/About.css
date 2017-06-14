@@ -1,8 +1,10 @@
 
 .page-header{
-	text-align: center;
+	text-align: left;
 	font-family: 'Ravi Prakash', cursive;
   font-family: 'Metal Mania', cursive;
+  color: black;
+  text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
 }
 
 .page-header2{
@@ -26,9 +28,14 @@
  font-family: 'Metal Mania', cursive; 
 }
 
-.img-responsive{
+.About-header{
+  font-family: 'Metal Mania', cursive;
+  font-size: 60px;
+  margin-right: 20%;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
-
+ .description{}
 
 
 .item{
@@ -89,6 +96,8 @@
 .list-bands{
   font-size: 25px;
   font-family: 'Metal Mania', cursive;
+  color: green;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 
 p{
@@ -135,12 +144,8 @@ p{
 
 
 .image1{
- position: absolute;
+ position: right;
  top: 100px;
- left: 130px;
- width: 550px;
- height: 400px;
- top: 5px;
  left: 130px;
  width: 550px;
  height: 400px;
@@ -149,11 +154,7 @@ p{
 }
 
 .image2{
- position: absolute;
- top: 35px;
- left: 130px;
- width: 550px;
- height: 400px;
+ position: left;
  top: 35px;
  left: 130px;
  width: 550px;
