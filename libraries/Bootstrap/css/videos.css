@@ -1,0 +1,175 @@
+body{
+	background-image: url("../../../images/pics/live3.jpg");
+	background-size: cover;
+}
+
+.page-header{
+	text-align: center;
+	font-family: 'Ravi Prakash', cursive;
+	font-family: 'Metal Mania', cursive;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+	text-align: left;
+	color: white;
+}
+
+.page-header2{
+	text-align: left;
+	font-family: 'Ravi Prakash', cursive;
+	font-family: 'Metal Mania', cursive;
+}
+
+.navbar-brand{
+	font-family: 'Ravi Prakash', cursive;
+	font-family: 'Metal Mania', cursive;
+	font-size: 50px;
+	margin-right: 20%;
+}
+
+.carousel-caption{
+	font-family: 'Metal Mania', cursive;
+}
+
+.navbar-components{
+	font-family: 'Metal Mania', cursive; 
+}
+
+.img-responsive{
+}
+
+
+
+.item{
+	font-family: font-family: 'Comfortaa', cursive;
+}
+
+.fa {
+	padding: 20px;
+	font-size: 70px;
+	width: 30px;
+	text-align: right;
+	text-decoration: none;
+
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+	opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+
+	color: white;
+	font-size: 50px;
+	align-content: right;
+
+}
+
+/* Twitter */
+.fa-twitter {
+
+	color: white;
+	font-size: 50px;
+	align-content: right;
+}
+
+.fa-spotify{
+	
+	color: white;
+	align-content: right;
+}
+
+.fa-instagram{
+	
+	color: white;
+	align-content: right;
+}
+
+.middle-header{
+	color: white;
+	font-size: 20px;
+	font-family: Impact, Charcoal, sans-serif
+}
+
+.list-bands{
+	font-size: 25px;
+	font-family: 'Metal Mania', cursive;
+}
+
+p{
+	font-family: Impact, Charcoal, sans-serif;
+	color: white;
+	font-size: 20px;
+
+}
+
+/*Contact sectiom*/
+.content-header{
+	font-family: 'Metal Mania', cursive,; 
+	color:white;
+	font-size: 45px;
+}
+
+.section-content{
+	text-align: center; 
+
+}
+#contact{
+
+	font-family: 'Teko', sans-serif;
+	font-family: 'Metal Mania', cursive; 
+	padding-top: 20px;
+	color: black;
+	width: 51%;
+	height: s250px;
+	border-radius: 55px;
+
+
+}
+.contact-section{
+	padding-top: 40px;
+}
+.contact-section .col-md-6{
+	width: 50%;
+}
+
+.form-line{
+	border-right: 1px solid #B29999;
+}
+
+.form-group{
+	margin-top: 10px;
+}
+label{
+	font-size: 1.3em;
+	line-height: 1em;
+	font-weight: normal;
+}
+.form-control{
+	font-size: 1.3em;
+	color: #080808;
+}
+textarea.form-control {
+	height: 135px;
+	/* margin-top: px;*/
+}
+
+.submit{
+	font-size: 1.1em;
+	float: right;
+	width: 150px;
+	background-color: transparent;
+	color: #fff;
+
+}
+
+.img-responsive{
+	border: 5px solid #ddd;
+	padding: 1px;
+	width: 150px;
+	height: 150px;
+
+}
+
