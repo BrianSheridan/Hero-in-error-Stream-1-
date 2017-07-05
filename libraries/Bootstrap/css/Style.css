@@ -6,33 +6,36 @@ body{
 .page-header{
 	text-align: center;
 	font-family: 'Ravi Prakash', cursive;
-    font-family: 'Metal Mania', cursive;
+  font-family: 'Metal Mania', cursive;
+  text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
 }
 
 .page-header2{
-    text-align: left;
-    font-family: 'Ravi Prakash', cursive;
-    font-family: 'Metal Mania', cursive;
+  text-align: left;
+  font-family: 'Ravi Prakash', cursive;
+  font-family: 'Metal Mania', cursive;
 }
 
 .navbar-brand{
 	font-family: 'Ravi Prakash', cursive;
-    font-family: 'Metal Mania', cursive;
-    font-size: 50px;
-    margin-right: 20%;
+  font-family: 'Metal Mania', cursive;
+  font-size: 50px;
+  color: yellow;
+  margin-right: 22%;
 }
 
 .carousel-caption{
-    font-family: 'Metal Mania', cursive;
+  font-family: 'Metal Mania', cursive;
 }
 
 .navbar-components{
-   font-family: 'Metal Mania', cursive; 
+ font-family: 'Metal Mania', cursive;
+
 }
 
-.img-responsive{
-    }
-
+.navbar-inverse{
+   background-color: black;
+}
 
 
 .item{
@@ -40,69 +43,73 @@ body{
 }
 
 .fa {
-    padding: 20px;
-    font-size: 70px;
-    width: 30px;
-    text-align: right;
-    text-decoration: none;
-    
+  padding: 20px;
+  font-size: 70px;
+  width: 30px;
+  text-align: right;
+  text-decoration: none;
+
 }
 
 /* Add a hover effect if you want */
 .fa:hover {
-    opacity: 0.7;
+  opacity: 0.7;
 }
 
 /* Set a specific color for each brand */
 
 /* Facebook */
 .fa-facebook {
-    
-    color: white;
-    font-size: 50px;
-    align-content: right;
-    
+
+  color: white;
+  font-size: 50px;
+  align-content: right;
+
 }
 
 /* Twitter */
 .fa-twitter {
-    
-    color: white;
-    font-size: 50px;
-    align-content: right;
+
+  color: white;
+  font-size: 50px;
+  align-content: right;
 }
 
 .fa-spotify{
 	
 	color: white;
-    align-content: right;
+  align-content: right;
 }
 
 .fa-instagram{
 	
 	color: white;
-    align-content: right;
+  align-content: right;
 }
 
+
 .middle-header{
-    color: white;
-    font-size: 20px;
-    font-family: Impact, Charcoal, sans-serif
+  color: white;
+  font-size: 40px;
+  font-family: 'Oswald', sans-serif;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 
 .list-bands{
-    font-size: 25px;
-    font-family: 'Metal Mania', cursive;
+  font-size: 25px;
+  font-family: 'Metal Mania', cursive;
+  text-shadow: 0px 0 white, 0 0px white, 1px 0 white, 0 1px white;
 }
 
 p{
-     font-family: Impact, Charcoal, sans-serif;
-     color: white;
-     font-size: 20px;
-     
- }
+ font-family: 'Oswald', sans-serif;
+ color: white;
+ font-size: 30px;
+ text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 
- /*Contact sectiom*/
+}
+
+/*Contact sectiom*/
 .content-header{
   font-family: 'Metal Mania', cursive,; 
   color:white;
@@ -114,7 +121,7 @@ p{
 
 }
 #contact{
-    
+
   font-family: 'Teko', sans-serif;
   font-family: 'Metal Mania', cursive; 
   padding-top: 20px;
@@ -123,7 +130,7 @@ p{
   height: s250px;
   border-radius: 55px;
   
-      
+
 }
 .contact-section{
   padding-top: 40px;
@@ -149,8 +156,8 @@ label{
   color: #080808;
 }
 textarea.form-control {
-    height: 135px;
-   /* margin-top: px;*/
+  height: 135px;
+  /* margin-top: px;*/
 }
 
 .submit{

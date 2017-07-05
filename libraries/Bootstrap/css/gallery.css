@@ -1,7 +1,8 @@
 body{
-	background-color: black;
-	background-size: cover;
+    background-image: url("../../../images/pics/musicbackground.jpg");
+    background-size: cover;
 }
+
 
 .page-header{
 	text-align: center;
@@ -104,5 +105,15 @@ p{
      font-size: 20px;
      
  }
+
+.img-thumbnail{
+    border: 5px solid #ddd;
+    padding: 1px;
+    width: 400px;
+    height: 200px;
+
+}
+
+
 
  
