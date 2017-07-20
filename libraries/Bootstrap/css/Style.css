@@ -8,6 +8,7 @@ body{
 	font-family: 'Ravi Prakash', cursive;
   font-family: 'Metal Mania', cursive;
   text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+  color: black;
 }
 
 .page-header2{
@@ -20,8 +21,8 @@ body{
 	font-family: 'Ravi Prakash', cursive;
   font-family: 'Metal Mania', cursive;
   font-size: 50px;
-  color: yellow;
   margin-right: 22%;
+  color: yellow;
 }
 
 .carousel-caption{
