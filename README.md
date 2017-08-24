@@ -221,8 +221,7 @@ It showed me how to embed the video properly and make every format possible be a
  
  Live demo:
  
- is available at https://briansheridan.github.io/Stream-One-Project/
- 
+ is available at https://briansheridan.github.io/Hero-in-error-Stream-1-/
  
  
  
